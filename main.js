@@ -15,6 +15,8 @@ class Card {
     init() {
         this.renderCard();
         this.selectCard();
+        this.renderCard();
+        this.selectCard();
     }
 
     renderCard() {
